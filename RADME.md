@@ -1,18 +1,18 @@
-# Login Page Project
+# 🔐 Login Page
 
-This is my first web development project.
+A simple, responsive login page built to practice core HTML structure and CSS styling.
 
-## 🔹 Features
-- Simple login page design
-- Built using HTML and CSS
-- Responsive basic layout
+## 🛠️ Built With
+- HTML5
+- CSS3 (Flexbox/Layout)
 
-## 🔹 Technologies Used
-- HTML
-- CSS
+## 🎯 What I Practiced
+- Form design and input styling
+- Page layout and responsive structure
+- Basic UI styling fundamentals
 
-## 🔹 Purpose
-This project was created to practice frontend development and improve my web design skills.
+## 📸 Preview
+*(Live demo link coming soon — see below)*
 
-## 🔹 Author
-Created by me using GitHub and VS Code.
+---
+*This was my first hands-on frontend practice project.*
